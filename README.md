@@ -1,1 +1,2 @@
-# Daily-Assignment-1
+# C Programming
+Daily Assignment-1
